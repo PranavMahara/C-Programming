@@ -1,0 +1,1 @@
+// WAP to sum up all the element row-wise and column-wise and display them separately

@@ -1,0 +1,1 @@
+// Write a program in C to compute the number of seconds passed since the beginning of the month.

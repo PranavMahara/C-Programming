@@ -1,0 +1,1 @@
+// Write a program in C to merge two files and write it in a new file.

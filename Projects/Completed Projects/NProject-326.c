@@ -1,0 +1,1 @@
+// Write a program in C to remove a file from the disk.

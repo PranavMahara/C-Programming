@@ -1,0 +1,1 @@
+// Write a program in C to count a number of words and characters in a file.

@@ -1,0 +1,1 @@
+// Write a program in C to show the usage of pointer to structure

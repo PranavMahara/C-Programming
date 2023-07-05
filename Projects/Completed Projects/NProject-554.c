@@ -1,0 +1,1 @@
+// Write a program in C to read the file and store the lines into an array.

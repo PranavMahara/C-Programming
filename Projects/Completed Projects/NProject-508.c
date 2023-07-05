@@ -1,0 +1,1 @@
+// Given a matrix of size n x n such that it has only one 0, Find the number to be placed in place of the 0 such that sum of the numbers in every row, column and two diagonals become equal.

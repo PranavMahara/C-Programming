@@ -1,0 +1,1 @@
+// Write a program in C to append multiple lines at the end of a text file.

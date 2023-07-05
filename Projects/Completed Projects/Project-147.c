@@ -1,0 +1,1 @@
+// Niven Number is same as Harshad Number!

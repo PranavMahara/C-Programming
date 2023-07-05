@@ -1,0 +1,1 @@
+// Write a program in C to delete a specific line from a file.

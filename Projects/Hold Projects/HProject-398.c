@@ -1,0 +1,1 @@
+// Check the symmetric matrix.

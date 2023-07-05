@@ -1,0 +1,1 @@
+// Find the sum of minor diagonal elements of a matrix.

@@ -1,0 +1,1 @@
+// Patterns of 0(1+)0 in given string

@@ -1,0 +1,1 @@
+// Max size of square submatrix with all 1s in a binary matrix
